@@ -1,0 +1,26 @@
+{
+    "id": "6D2CD814",
+    "path": "~/Documents/GitHub/introduction-to-r/session1-objects/analysis/homework_objects.R",
+    "project_path": "analysis/homework_objects.R",
+    "type": "r_source",
+    "hash": "1785631737",
+    "contents": "",
+    "dirty": false,
+    "created": 1669211359627.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "37,0",
+        "scrollLine": "26"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1669211383,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1669211383616,
+    "read_only": false,
+    "read_only_alternatives": []
+}
